@@ -6,4 +6,4 @@ RUN mkdir /nmap_output
 
 WORKDIR /nmap_output
 
-ENTRYPOINT nmap
+#CMD ["nmap google.com"]
