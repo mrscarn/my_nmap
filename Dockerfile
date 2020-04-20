@@ -7,3 +7,4 @@ RUN mkdir /nmap_output
 WORKDIR /nmap_output
 
 #CMD ["nmap google.com"]
+#ENTRYPOINT[""]
