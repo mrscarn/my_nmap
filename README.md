@@ -12,4 +12,4 @@ $ docker run -it -v $(pwd)/test:/nmap_output my_nmap
 
 The -v parameter creates a volume. The volume/folder is created in your current directory and is linked to the folder /nmap_output inside the container. 
 
-Type exit to close the session och thus stopping the container.
+Type exit to close the session and thus stopping the container.
