@@ -8,3 +8,4 @@ WORKDIR /nmap_output
 
 #CMD ["nmap google.com"]
 #ENTRYPOINT[""]
+#Entrypoint NMAPs
